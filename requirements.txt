@@ -1,0 +1,2 @@
+# No external dependencies — tkinter and re are part of the Python standard library.
+# Requires Python 3.x with tkinter support.
