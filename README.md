@@ -39,10 +39,10 @@ python3 email_splicer_code_1.py
 Or run the simplified version:
 
 ```bash
-python3 New_Splicer_Code_2.py
+python3 Email_Splicer_Code_2.py
 ```
 
 ## Project Structure
 
 - `email_splicer_code_1.py` — Full-featured version with listbox UI, scrollbar, and column headers
-- `New_Splicer_Code_2.py` — Simplified rewrite with cleaner parsing logic
+- `Email_Splicer_Code_2.py` — Simplified rewrite with cleaner parsing logic
